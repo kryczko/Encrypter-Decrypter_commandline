@@ -51,7 +51,7 @@ char ceaserCipher(char c,int key)
   {
 	 c = c;
   }
-  else if(c = 32)
+  else if(c == 32)
   {
 	  c = c;
   }
